@@ -11,14 +11,14 @@ const App = () => {
           setCounter(counter + 1);
         }}
       >
-        +
+        + (Plus)
       </button>
       <button
         onClick={() => {
           setCounter(counter - 1);
         }}
       >
-        -
+        - (Minus)
       </button>
     </div>
   );
