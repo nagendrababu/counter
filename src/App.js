@@ -18,7 +18,7 @@ const App = () => {
           setCounter(counter - 1);
         }}
       >
-        - (Minus)
+        - (Min)
       </button>
     </div>
   );
